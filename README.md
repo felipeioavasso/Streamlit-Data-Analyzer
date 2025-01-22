@@ -13,3 +13,7 @@ O projeto visa facilitar a inspeção e validação de dados, incluindo:
 - Visualização clara de informações e estatísticas sobre os dados.  
 - Análise de dados ausentes e duplicados.  
 - Compatível com grandes volumes de dados.  
+
+
+https://github.com/user-attachments/assets/bf4d8da4-3c12-422d-ad73-8e2d88f58b6f
+
